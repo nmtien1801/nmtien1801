@@ -7,8 +7,6 @@
 - 📧 Email: nickname1801@gmail.com
 - 🌐 Portfolio: I’m currently building my personal portfolio to showcase the projects I’ve been working on — including microservices, real-time apps, and backend experience. Stay tuned, it’s coming very soon with live demos, source code, and write-ups of my development journey!
 
-# 📊 GitHub Stats
-
 # 🧰 Tech Stack
 - 💻 Programming Languages
   
